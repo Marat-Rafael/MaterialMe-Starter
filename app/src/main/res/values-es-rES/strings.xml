@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Material Me!</string>
+    <string name="title_placeholder">Título</string>
+    <string name="news_placeholder">Noticias</string>
+    <string name="sports_info_placeholder">Aquí hay algunas noticias</string>
+    <string name="sports_info_placeholderDetail">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum rhoncus placerat eros venenatis vestibulum. Etiam nec lorem blandit, dignissim libero id, rutrum odio. Sed eleifend diam sit amet mauris sollicitudin consectetur. Quisque tristique tortor sed mollis pretium. Phasellus viverra egestas nulla sed eleifend. Donec tincidunt dolor id accumsan congue. Morbi vitae ligula leo. Maecenas lorem dolor, molestie a euismod ut, faucibus eu felis. Suspendisse nibh risus, sollicitudin et eros at, porta ullamcorper magna. Proin auctor molestie sem sed iaculis. Phasellus posuere tortor quam. Morbi in diam malesuada, venenatis nisi vel, ullamcorper ex. Vestibulum feugiat vulputate auctor.</string>
+
+    <string-array name="sports_titles">
+        <item>Béisbol</item>
+        <item>Bádminton</item>
+        <item>Baloncesto</item>
+        <item>Bolos</item>
+        <item>Ciclismo</item>
+        <item>Golf</item>
+        <item>Corriendo</item>
+        <item>Fútbol</item>
+        <item>Natacion</item>
+        <item>Tenis de mesa</item>
+        <item>Tenis</item>
+    </string-array>
+
+    <string-array name="sports_info">
+        <item>Here is some Baseball news!</item>
+        <item>Here is some Badminton news!</item>
+        <item>Here is some Basketball news!</item>
+        <item>Here is some Bowling news!</item>
+        <item>Here is some Cycling news!</item>
+        <item>Here is some Golf news!</item>
+        <item>Here is some Running news!</item>
+        <item>Here is some Soccer news!</item>
+        <item>Here is some Swimming news!</item>
+        <item>Here is some Table Tennis news!</item>
+        <item>Here is some Tennis news!</item>
+    </string-array>
+
+    <array name="sports_images">
+        <item>@drawable/img_baseball</item>
+        <item>@drawable/img_badminton</item>
+        <item>@drawable/img_basketball</item>
+        <item>@drawable/img_bowling</item>
+        <item>@drawable/img_cycling</item>
+        <item>@drawable/img_golf</item>
+        <item>@drawable/img_running</item>
+        <item>@drawable/img_soccer</item>
+        <item>@drawable/img_swimming</item>
+        <item>@drawable/img_tabletennis</item>
+        <item>@drawable/img_tennis</item>
+    </array>
+
+</resources>
